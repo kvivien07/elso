@@ -134,10 +134,10 @@ Jobbra igazított táblázat
 
 ## [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
-* RIP
-* OSPF
+* RIP[^1]
+* OSPF[^2]
 
-1. Routing Information Protocol
---------
-2. Open Shortest Path First
---------
+[^1] Routing Information Protocol
+
+[^2] Open Shortest Path First
+
