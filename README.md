@@ -105,9 +105,9 @@ banán 30 kg
 
 # Linkek
 
-- [Aqua](http://aqua.hu)
+- __[Aqua](http://aqua.hu)__
 
-- [Media Markt](http://mediamarkt.hu/"MédiaMark Magyarország")
+- __[Media Markt](http://mediamarkt.hu/ "MediaMark Magyarország")__
 
 - Automatikus link https://arpadszki.hu
 
