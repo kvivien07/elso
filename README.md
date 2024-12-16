@@ -137,7 +137,7 @@ Forgalomirányító protokollok:
 * RIP[^1]
 * OSPF[^2]
 
-[^1] Routing Information Protocol
+[^1]: Routing Information Protocol
 
-[^2] Open Shortest Path First
+[^2]: Open Shortest Path First
 
