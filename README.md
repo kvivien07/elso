@@ -120,7 +120,8 @@ Jobbra igazított táblázat
 
 # Képek
 ![Minion](https://octodex.github.com/images/minion.png)
- ![tormtroopocat](https://https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+![tormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
    
 
 
