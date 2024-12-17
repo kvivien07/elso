@@ -21,7 +21,7 @@ Vízszintes vonalak
 
 __Félkövér másként__
 
-* Dőlt
+Dőlt
 
 _Dőlt másként_
 
@@ -126,12 +126,12 @@ print("Vége")
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-__[Emoji](https://github.com/markdown-it/markdown-it-emoji)__
+### __[Emoji](https://github.com/markdown-it/markdown-it-emoji)__
 
 Jelek: :wink:  :cry: :laughing: :yum:
 
 
-__[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
+### __[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
 
 Forgalomirányító protokollok:  
 
