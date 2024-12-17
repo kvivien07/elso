@@ -4,7 +4,7 @@ __Hirdetés__
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
-# h1 fejezet
+# h1 fejezet :confused:
 ## h2 fejezet
 ### h3 fejezet
 #### h4 fejezet
@@ -12,42 +12,46 @@ __Hirdetés__
 ###### h6 fejezet
 
 
-# Vízszintes vonalak
+Vízszintes vonalak
+-------
 
-# Hangsúlyozás
+## Hangsúlyozás
 
 **Félkövér**
 
 __Félkövér másként__
 
-_Dőlt_
+* Dőlt
 
-*Dőlt másként*
+_Dőlt másként_
 
 ~~Áthúzott~~
 
 
-# Blokkok
+## Blokkok
 
 
->Első idézet...
->>Bágyazott blokk
->>>További beágyazott blokk
+> Első idézet...
+>> Bágyazott blokk
+>>> További beágyazott blokk
 
 
-# Listák
+## Listák
 
-Felsorolás
+#### Felsorolás
 
-- Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
-- A részlisták 2 szóköz behúzásával készülnek:
-    - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-        - Alma
-            - Piros alma
-        - Narancs
-- További elem
 
-Számozás
++  Hozzon létre egy listát úgy, hogy egy sort kezd ezzel `+`, `-`, vagy `*`
++ A részlisták 2 szóköz behúzásával
+készülnek:
+- A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+   + Alma
+     + Piros alma
+    + Narancs
++ További elem
+
+
+#### Számozás
 
 1. Hétfő
 2. Kedd
@@ -55,7 +59,7 @@ Számozás
 
 
 
-Számozás indítása más kezdettel:
+#### Számozás indítása más kezdettel:
 
 100. Vasárnap
 101. Hétfő
@@ -63,53 +67,57 @@ Számozás indítása más kezdettel:
 
 # Kód
 
-Soron belül code
+#### Soron belül `code`
 
-Behúzott kód
+#### Behúzott kód
 
-//Néhány megjegyzés\
-Gyakorlás\
-Gyakorlás\
+```
+// Néhány megjegyzés
 Gyakorlás
+Gyakorlás
+Gyakorlás
+```
+
+#### Blokk kód
 
 
-Blokk kód
+``` Egyszerű szöveg... ```
 
 
-Egyszerű szöveg...
+#### Szintaxis kiemelés
 
 
-Szintaxis kiemelés
-
-
-```for``` i ```in range```(```10```):\
-```print```("Hello")\
-```print```("Vége")
-
+```python
+for i in range(10):
+    print("Hell o")
+print("Vége")
+```
 
 # Táblázat
 
- **Gyümölcs**|**Mennyiség**|
+|**Gyümölcs** | **Mennyiség**|
+|--------------|------------|
+|alma  | 10 kg|
+|körte | 20 kg|
+|banán | 30 kg|
+------------
 
-   alma      |  10 kg      |
-   körte     |  20 kg      |
-   banán     |  30 kg      |
+#### Jobbra igazított táblázat
+|**Gyümölcs** | **Mennyiség**|
+|--------------:|------------:|
+|alma | 10 kg|
+|körte | 20 kg|
+|banán | 30 kg|
 
-Jobbra igazított táblázat
-
-Gyümölcs Mennyiség
-alma 10 kg
-körte 20 kg
-banán 30 kg
 
 
 # Linkek
 
-- __[Aqua](http://aqua.hu)__
++ [Aqua](http://aqua.hu)
 
-- __[Media Markt](http://mediamarkt.hu/ "MediaMark Magyarország")__
++ [Media Markt](http://mediamarkt.hu/) 
 
-- Automatikus link https://arpadszki.hu
++ Automatikus link https://arpadszki.hu
 
 
 # Képek
@@ -118,17 +126,19 @@ banán 30 kg
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-# [Emoji](https://github.com/markdown-it/markdown-it-emoji)
+__[Emoji](https://github.com/markdown-it/markdown-it-emoji)__
 
-# Jelek: :wink: :cry: :satisfied: :stuck_out_tongue_closed_eyes:
+Jelek: :wink:  :cry: :laughing: :yum:
 
 
-# [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
+__[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
+
 Forgalomirányító protokollok:  
-- RIP[1]
-- OSPF[2]
 
-Routing Information Protocol
+* RIP[^1]
+* OSPF[^2]
 
-Open Shortest Path First
+[^1]: Routing Information Protocol
+
+[^2]: Open Shortest Path First
 
